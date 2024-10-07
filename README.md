@@ -12,15 +12,15 @@ This project was developed as part of the Amira Intervention Challenge, aimed at
 
 ## Thought Process
 
-The core design of this application revolves around building micro-interventions at the word level, providing students with specific support based on their struggles with individual words in a passage. The thought process follows these principles:
+The core design of this application revolves around building micro-interventions at the word level, providing a child with specific support based on their struggles with individual words in a passage. The thought process follows these principles:
 
-1. Personalized Learning: By leveraging generative AI tools, the solution offers tailored interventions based on the word, sentence context, student's learning level, and their native language. This is critical in understanding a student's specific struggles with word recognition or pronunciation.
+1. Personalized Learning: By leveraging generative AI tools, the solution offers tailored interventions based on the word, sentence context, child's learning level, and their native language. This is critical in understanding a child's specific struggles with word recognition or pronunciation.
 
 2. Engaging Interventions: The challenge called for creative and engaging ways to improve reading skills. The application's flexibility allows for prompts that can generate phonetic breakdowns, contextual meanings, sample dialogues, and activity suggestions, all of which can help make the learning process more engaging.
 
 3. Seamless Interaction: The chat interface allows for smooth follow-up conversations. Students or teachers can ask follow-up questions about a word or instruction, and the generative model dynamically generates appropriate responses.
 
-4. Modularity: Each intervention is built to be modular so that different components (e.g., phonemes, context, and activities) can be assembled to form a complete intervention. This makes the application extendable and adaptable for future development or platform integration.
+4. Modularity: Each intervention is built to be modular so that different components (e.g., phonemes, context, and activities) can be assembled to form a complete intervention. This makes the application extendable and adaptable for future development or platform integration. This structure is downloadable in JSON format.
 
 ## How to Run
 
@@ -55,3 +55,11 @@ docker-compose up --build
 ## Example Outputs
 
 Example outputs are given in the [Examples](https://github.com/oam-mit/amira_learning_task/tree/main/examples) folder.
+
+## Pictures of the application
+
+![alt text](images/pic2.png)
+
+![alt text](images/pic1.png)
+
+![alt text](images/pic3.png)
