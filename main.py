@@ -48,11 +48,12 @@ def show_messages_chat():
     for message in st.session_state["messages"]:
         with st.chat_message(message["role"]):
             if message["role"] == "assistant":
-                st.write(json.loads(message["content"]))
+                json_output = json.loads(message["content"])
+                st.write(json_output)
                 st.download_button(
                     key=uuid.uuid4(),
                     label="Download Response as JSON",
-                    data=convert_to_json(message["content"], indent=3),
+                    data=convert_to_json(json_output, indent=3),
                     file_name="response.json",
                     mime="application/json"
                 )
