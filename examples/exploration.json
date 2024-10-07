@@ -1,0 +1,31 @@
+{
+   "phoneme_breakdown": "ɪkˌsplɔːˈreɪʃən",
+   "phonemic_list": [
+      "ɪ",
+      "k",
+      "s",
+      "p",
+      "l",
+      "ɔː",
+      "ˈr",
+      "eɪ",
+      "ʃ",
+      "ən"
+   ],
+   "bot_dialog": "Isn't it fun to go on a treasure hunt to explore new places? Where would you like to go for exploration if you had a magic map?",
+   "suggested_activities": [
+      "Watch a fun video about kids exploring a new place and listen carefully to how they say 'exploration'.",
+      "Use an online tool with buttons—each one says a different phoneme for 'exploration': ɪ - k - s - p - l - ɔː - ˈr - eɪ - ʃ - ən. Try clicking them!",
+      "Let's draw a map of an imaginary island. Every time we draw something new that we could explore, say 'exploration'.",
+      "Record yourself using a simple device saying the word 'exploration' slowly; listen to hear if it sounds like the video!",
+      "Let’s play a word-building game on a tablet, using drag and drop to create 'exploration'. It’ll help you connect each sound."
+   ],
+   "native_sentence": "Le mot en français pour 'exploration' est 'exploration'.",
+   "follow_ups": [
+      "What was the place the kids explored in the video? Try saying 'exploration' after watching.",
+      "Can you press each phoneme button two times and say them out loud?",
+      "What new thing would you like to draw next? Remember to say 'exploration' after each item.",
+      "Did listening to yourself saying 'exploration' help you hear the parts correctly?",
+      "Which sounds stood out when you played the word-building game?"
+   ]
+}

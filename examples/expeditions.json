@@ -1,0 +1,25 @@
+{
+   "phoneme_breakdown": "ɛksˈpɛd.ɪ.ʃənz",
+   "phonemic_list": [
+      "/ɛks/",
+      "/ˈpɛd/",
+      "/ɪ/",
+      "/ʃənz/"
+   ],
+   "bot_dialog": "Hello! Have you ever gone on a trip, like when you visit a zoo or a fun place? That's called an expedition too! What is the most exciting place you've visited?",
+   "suggested_activities": [
+      "Activity 1: Watch a video where someone says the word 'expeditions'. Pay attention to how it starts with /ɛks/.",
+      "Activity 2: Practice with a mirror and focus on the parts: /ɛks/, /ˈpɛd/, /ɪ/, and /ʃənz/. Say each part slowly, watching your mouth move.",
+      "Activity 3: Button activity—Press interactive buttons on the screen to hear /ɛks/, /ˈpɛd/, /ɪ/, and /ʃənz/ sounds separately. Repeat them.",
+      "Activity 4: Tune into a fun song about adventures. While listening, search for the ending with /ʃənz/.",
+      "Activity 5: Read a simple story aloud that contains the word 'expeditions'."
+   ],
+   "native_sentence": "En español, 'expeditions' se dice 'expediciones'.",
+   "follow_ups": [
+      "What sound came first when the person in the video said the word?",
+      "Did you watch yourself say each of the parts in the mirror?",
+      "What sounds did the buttons make when pressed? Can you repeat them?",
+      "Did you find the word 'expeditions' in the song? Where does it appear?",
+      "What was the story about that you read out loud?"
+   ]
+}
