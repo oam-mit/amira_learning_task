@@ -1,0 +1,24 @@
+{
+   "phoneme_breakdown": "/ˈɡʌvərnmənt/",
+   "phonemic_list": [
+      "/ɡʌ/",
+      "/vərn/",
+      "/mənt/"
+   ],
+   "bot_dialog": "Hey there! Imagine you've got a big art project with your friends. There isn't just one leader; everyone works together, and that's kind of like what a government does. Can you think of what a government in our country does?",
+   "suggested_activities": [
+      "Watch a video of a teacher saying the word 'government' and ask them to say each part slowly: /ɡʌ/ - verm - /mənt/",
+      "Press on the interactive buttons that say /ɡʌ/, then /vərn/, then /mənt/ to record yourself.",
+      "Spell the word 'government' with magnetic letters and say each part as you place it.",
+      "Use a karaoke-style app where you speak and it guides ",
+      "Watch an animation of cartoon characters forming a government and say 'government' with them say."
+   ],
+   "native_sentence": "इस शब्द का हिंदी में मतलब 'सरकार' है।",
+   "follow_ups": [
+      "Can you try saying /gʌ/ by watching the video again? Maybe clap your hands when the teacher starts each syllable!",
+      "Did you press each button carefully? Let's try again and see if you can clearly hear every sound this time.",
+      "You placed the /gʌ/ part right! How about flipping magnetic letters this time?",
+      "Did you listen carefully for /vərn/ in the karaoke app? Click 'retry' and listen closely for each syllable.",
+      "What did the fun cartoon characters do? Can they help you repeat 'government' one more time?"
+   ]
+}

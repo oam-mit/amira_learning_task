@@ -1,0 +1,25 @@
+{
+   "phoneme_breakdown": "expləˈreɪʃən",
+   "phonemic_list": [
+      "/ɛk/",
+      "/sp/",
+      "/lər/",
+      "/ˈeɪʃən/"
+   ],
+   "bot_dialog": "Have you ever gone on an exploration of your backyard or neighborhood to find hidden treasures? It's like being a detective and finding new secrets!",
+   "suggested_activities": [
+      "Watch a fun video where an adventurer goes on an 'exploration' and listen to how they say the word slowly.",
+      "Press buttons in a game to hear each part of the word '/ɛk/', '/sp/', '/lər/', and '/ˈeɪʃən/'. This will help you say them all together.",
+      "Try repeating the word 'exploration' while tapping along with its parts: '/ɛk/', '/sp/', '/lər/', '/ˈeɪʃən/'.",
+      "Record yourself saying 'exploration' three times using an app to hear how you get better with practice!",
+      "Join a story-time animation that uses the word 'exploration' in different ways - notice how characters can teach you new words!"
+   ],
+   "native_sentence": "La palabra en español es 'exploración'.",
+   "follow_ups": [
+      "What new things did the adventurer find during their exploration?",
+      "Which part of the word can you press to hear next?",
+      "What part do you clap on when you say 'exploration'?",
+      "How does your recording change each time you say 'exploration'?",
+      "Can you name another adventure or mission an animated character went on? What word did they use?"
+   ]
+}

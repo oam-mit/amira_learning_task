@@ -1,0 +1,24 @@
+{
+   "phoneme_breakdown": "rə-ˈmeɪ-nɪŋ",
+   "phonemic_list": [
+      "rə",
+      "ˈmeɪ",
+      "nɪŋ"
+   ],
+   "bot_dialog": "Do you know how cookies in the jar look after they've been eaten? The ones left are the remaining cookies.",
+   "suggested_activities": [
+      "Watch a fun video animation of the word 'remaining' being pronounced and repeated along with character movements.",
+      "Play a game on an app where you tap on different phonemes of 'remaining' and hear the correct pronunciation.",
+      "Listen to an audio clip three times where someone slowly pronounces 'remaining' and follow along.",
+      "Color a word art page where 'remaining' is styled in big letters and say it as you color each part of the word.",
+      "Do a role-playing exercise with a family member where you both give and take things, leaving a 'remaining' object while saying the word."
+   ],
+   "native_sentence": "Le mot en français pour 'remaining' est 'restant'.",
+   "follow_ups": [
+      "Did you watch the video and try saying the word with the character? How did it feel?",
+      "How quickly could you tap on the phonemes 'rə', 'ˈmeɪ', 'nɪŋ'? Which part felt trickiest?",
+      "Could you follow and say 'remaining' as it was said in the audio of three counts?",
+      "Which part of the word 'remaining' you colored as you said the sound out loud?",
+      "What were the items you used in the role play, and did you say 'remaining' each time correctly?"
+   ]
+}

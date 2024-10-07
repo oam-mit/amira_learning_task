@@ -1,0 +1,30 @@
+{
+   "phoneme_breakdown": "ˈɡʌvərnmənt",
+   "phonemic_list": [
+      "ɡ",
+      "ʌ",
+      "v",
+      "ər",
+      "n",
+      "m",
+      "ə",
+      "n",
+      "t"
+   ],
+   "bot_dialog": "In every country, the government makes important rules and helps people work together. Can you think of any rule made by a government?",
+   "suggested_activities": [
+      "Watch a video where each sound in 'government' is spoken clearly and slowly: [ɡ], [ʌ], [v], [ər], [n], [m], [ə], [n], [t].",
+      "Use magnetic letters to arrange 'government' and say each sound as you connect them together.",
+      "Listen to a song that repeats the sounds 'ɡ' and 'ʌ' then slowly introduce the other sounds one by one.",
+      "Record yourself saying each sound in 'government' separately, listen and practice until you are comfortable saying them.",
+      "Descibe a picture of a government building, pronouncing the word 'government' focusing on each sound carefully."
+   ],
+   "native_sentence": "Le mot est 'gouvernement' en français.",
+   "follow_ups": [
+      "What do you remember most after watching the video about the word 'government'?",
+      "Can you show me which letters you used to make the word 'government'?",
+      "How does the song help you remember the sounds in 'government'?",
+      "What did you notice when you listened to your recording of 'government'? Did you like any specific part?",
+      "Do you remember any details about the government building picture we talked about?"
+   ]
+}

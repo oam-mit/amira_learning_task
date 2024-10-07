@@ -1,0 +1,25 @@
+{
+   "phoneme_breakdown": "sʌɪənˈtɪfɪk",
+   "phonemic_list": [
+      "sʌɪ",
+      "ən",
+      "ˈtɪ",
+      "fɪk"
+   ],
+   "bot_dialog": "Do you like watching stars through a telescope? That's what people do when they are being scientific!",
+   "suggested_activities": [
+      "Watch a video of someone pronouncing the word 'scientific' and repeat after them.",
+      "Press a button to hear each of these sounds one by one: /sʌɪ/, /ən/, /ˈtɪ/, /fɪk/. Try to say them back.",
+      "Use a mirror to watch your mouth move as you slowly say 'scientific'. Pay attention to each part: /sʌɪ-ən-tɪ-fɪk/.",
+      "Find a song that uses the word 'scientific' and sing along, setting your focus on listening to the word.",
+      "Have a parent or friend pronounce only the first three parts – /sʌɪ/-/ən/-/ˈtɪ/ – and complete the word by adding /fɪk/."
+   ],
+   "native_sentence": "La palabra es llamada 'científico' en español.",
+   "follow_ups": [
+      "What part or sound of the word did you find tricky when watching the video?",
+      "After pressing the buttons, was there a sound you had to repeat more than others?",
+      "What did your mouth do differently when making the different parts of 'scientific' in the mirror?",
+      "Did singing the song make you more comfortable using 'scientific'? Tell me about it!",
+      "Which part was easiest to complete and which one you had the hard time to link together for the word?"
+   ]
+}

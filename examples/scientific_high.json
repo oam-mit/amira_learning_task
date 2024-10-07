@@ -1,0 +1,31 @@
+{
+   "phoneme_breakdown": "sɪ.aɪənˈtɪfɪk",
+   "phonemic_list": [
+      "s",
+      "ɪ",
+      "aɪ",
+      "ə",
+      "n",
+      "ˈt",
+      "ɪ",
+      "f",
+      "ɪ",
+      "k"
+   ],
+   "bot_dialog": "Did you know that doctors and engineers work on scientific projects to discover new things every day? They use science to learn more about our world!",
+   "suggested_activities": [
+      "Watch a video where a teacher slowly says each sound: ‘s’, ‘ɪ’, and ‘aɪ’ in words like ‘sit’, ‘sip’, and ‘site’. Repeat along with the video.",
+      "Press interactive buttons that say each phoneme: ‘s’ as in ‘sun’, ‘ɪ’ as in ‘sit’, and ‘aɪ’ as in ‘site’. Try repeating after pressing each button a few times.",
+      "Do a fun singing exercise that includes ‘sɪ-aɪ-ən’ in a song; each time you need to clap on ‘ən’.",
+      "Use a phoneme matching game. Match ‘ˈti’ sounds with their pictures, like a tea cup or a tee shirt, while saying them aloud.",
+      "Practice stringing the sounds quickly: Start slowly with ‘k’, ‘ð’, ‘ɒl’ until it sounds natural together. Try first in silence, then speaking."
+   ],
+   "native_sentence": "इस शब्द को हिंदी में 'वैज्ञानिक' कहा जाता है।",
+   "follow_ups": [
+      "What colors or objects did you see in the video about the word ‘scientific’?",
+      "Which phoneme button did you press? Try a different button and say the sound out loud!",
+      "Sing ‘sɪ-aɪ-ən’, can you match it with the tune? Let’s do it together, how fun to clap in ‘ən’!",
+      "Which picture goes with the ‘ˈti’ sound? Did you say it the same or differently when you see a picture?",
+      "Who can say the sounds ‘k’, ‘ð’, ‘ɒl’ the quickest? Try saying it both slowly and quickly!"
+   ]
+}
