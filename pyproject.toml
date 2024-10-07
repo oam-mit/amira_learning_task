@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "intervention-challenge"
+version = "0.1.0"
+description = ""
+authors = ["Omkar Masur <44014415+oam-mit@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "intervention_challenge"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.39.0"
+openai = "^1.51.0"
+python-dotenv = "^1.0.1"
+cerberus = "^1.3.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
